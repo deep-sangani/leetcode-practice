@@ -29,6 +29,6 @@ for (let i = 0; i < arr.length; i++){
                 max = sum
         }
 
-}
+}``
 
 console.log(max);
